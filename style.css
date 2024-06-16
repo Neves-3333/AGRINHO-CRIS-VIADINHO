@@ -14,7 +14,7 @@ header {
     font-size: 120%;
 }
 
-.Introdução{
+#Sobre Nós{
     margin: 10px;
     font-size: 100%;
     flex-direction: column;
