@@ -40,7 +40,9 @@ header {
     width: 10%;
   }
   footer{
+    font-size: small;
     display: flex;
     align-items: center;
+    justify-content: center
   }
   
