@@ -10,7 +10,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border: 1px solid black;
+   
     font-size: 120%;
 }
 
@@ -22,7 +22,8 @@ header {
     
 }
 
-.Produtos{
+.Produtos{  
+    border: 1px solid black;
     display: flex;
     font-size: 100%;
     align-items: center;
