@@ -13,10 +13,7 @@ header {
 }
 
 .Introdução{
-    display: flex;
     margin: 10px;
-
-    border: 1px solid black;
     font-size: 100%;
     flex-direction: column;
     text-align: center;
