@@ -1,6 +1,6 @@
 *{ @font-face {
   font-family:'minhafonte';
-  src:url(https://fontmeme.com/fonts/minecraft-font/);
+  src:url(minecraft_font.ttf/);
 }
 div {
   font-family:minhafonte;
