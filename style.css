@@ -1,10 +1,5 @@
-*{ @font-face {
-  font-family:'minhafonte';
-  src:url(minecraft_font.ttf/);
-}
-div {
-  font-family:minhafonte;
-} } 
+*{ background-size: cover;
+} 
 
 
 body {
