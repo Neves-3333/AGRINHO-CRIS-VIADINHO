@@ -32,9 +32,13 @@ header {
 
 #container {
     display: flex;
+    flex-wrap: wrap;
    
   }
-
+#comi{
+    display: flex;
+    align-items: center;
+}
 
   .log{
     width: 10%;
