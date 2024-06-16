@@ -11,3 +11,13 @@ header {
     border: 1px solid black;
     font-size: 120%;
 }
+
+.Introdução{
+    
+        display: flex-wrap;
+        margin: 30px;
+        padding: 30px;
+        border: 1px solid black;
+        font-size: 120%;
+    
+}
