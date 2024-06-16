@@ -1,5 +1,6 @@
 body {
     color: antiquewhite;
+    border: 1px solid black;
     background-image: url(fundo.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
