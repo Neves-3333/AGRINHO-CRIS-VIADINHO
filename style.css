@@ -58,3 +58,8 @@ header {
     justify-content: center
   }
   
+@media screen and (min-width: 1024){
+
+  background-size: 100% 100%;
+  
+}
