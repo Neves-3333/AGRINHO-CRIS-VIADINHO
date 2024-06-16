@@ -55,7 +55,7 @@ header {
   
 @media screen and (min-width: 1024){
 
-  #container{
+  .Produtos{
     grid-template-columns: 50% 50%;
   } 
 }
